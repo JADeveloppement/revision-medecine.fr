@@ -1,0 +1,6 @@
+ErrorDocument 404 https://revision-medecine.fr/error.php?error=404
+ErrorDocument 500 https://revision-medecine.fr/error.php?error=500
+
+RewriteEngine on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule (.*) https://www.revision-medecine.fr/$1 [R=301,L]

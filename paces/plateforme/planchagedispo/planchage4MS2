@@ -1,0 +1,23 @@
+Probabilités - 19 QCD
+012019paces102019paces102019paces012019paces012019paces102019paces102019paces012019paces102019paces102019paces012019paces102019paces012019paces102019paces102019paces012019paces012019paces102019paces01
+La probabilité qu’il y ait au maximum 2 infectés s’écrit P(X > 2)2019pacesA - Vrai777pacesB - Faux
+La probabilité qu’il y ait au plus 12 personnes mortes s’écrit P(X < 13)2019pacesA - Vrai777pacesB - Faux
+La probabilité qu’il y ait au plus 3 médicaments pour un patient s’écrit P(X ≤ 3)2019pacesA - Vrai777pacesB - Faux
+La probabilité qu’il y ait au moins 2 malades s’écrit P(X < 2)2019pacesA - Vrai777pacesB - Faux
+La probabilité qu’il y ait au moins 15 vaches s’écrit P(X > 15)2019pacesA - Vrai777pacesB - Faux
+La probabilité qu’il y ait au moins 15 médecins en grève s’écrit P(X ≥ 15)2019pacesA - Vrai777pacesB - Faux
+La probabilité qu’il y ait au plus 10 cas d’ébola en France s’écrit 1 - P(X > 10)2019pacesA - Vrai777pacesB - Faux
+Soit X ~ N(10,5). Quelles sont les propositions justes ?
+P(X≤10)=0.22019pacesA - Vrai777pacesB - Faux
+P(X≤10)=0.52019pacesA - Vrai777pacesB - Faux
+P(X>5)=0.84132019pacesA - Vrai777pacesB - Faux
+P(X≤ 4)=0.88492019pacesA - Vrai777pacesB - Faux
+P(X>15)=0.15872019pacesA - Vrai777pacesB - Faux
+P(X≤13)=0.27432019pacesA - Vrai777pacesB - Faux
+Soit une loi X ~ N(0,1)
+P(X≤0)=0.52019pacesA - Vrai777pacesB - Faux
+P(X≤1.5)=0.93322019pacesA - Vrai777pacesB - Faux
+P(X>0.3)=0.61792019pacesA - Vrai777pacesB - Faux
+P(X≤0.8)=0.21192019pacesA - Vrai777pacesB - Faux
+P(X≤3.5)=0.9982019pacesA - Vrai777pacesB - Faux
+P(X > 1.2)+ P(X≤ 0.2)= 0.30562019pacesA - Vrai777pacesB - Faux

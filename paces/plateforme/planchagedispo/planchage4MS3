@@ -1,0 +1,23 @@
+Tests (non-)paramétriques - 21 QCM/QCD
+100102019paces110102019paces012019paces012019paces102019paces012019paces012019paces102019paces102019paces012019paces102019paces012019paces012019paces102019paces012019paces012019paces102019paces011102019paces01100
+On a ces deux séries de valeurs suivantes : <BR>	S1 = {1.2 2.9 1.08 0.9}<BR>S2 = {3.2 1.5 2.4 4.1 2.5}<BR>On utilisera le risque α = 5%. 2019pacesA - Pour analyser les différentes distributions on devra passer par un test de Wilcoxon777pacesB - C’est un test statistique paramétrique777pacesC - Au risque donné, on rejette  H0 777pacesD - Au risque donné, on ne peut pas rejetter H0777pacesE - Autre réponse
+On mesure la concentration en calcitonine chez 12 personnes dans deux villes différentes.<BR>V1 : 11.1  9.8  10.2  10.5  10.1<BR>V2 : 10.3  10.4  10.7  11.4  12.1  9.3  9.42019pacesA - On peut réaliser un test de Wilcoxon approché par la loi normale777pacesB - On peut réaliser un test de Mann Whitney777pacesC - Au risque α = 50%, il y a une élevation du taux de calcitonine dans le sang des personnes dans la ville 2777pacesD - Au risque α = 10%, on ne peut pas dire qu’il y a une élévation significative du taux de calcitonine dans le sang des personnes dans la ville 2777pacesE - Autre réponse
+Une étude clinique sur la survie des patients après une maladie cérébrale est lancée. La date d’arrêt est fixée au 31 décembre 2012
+Une personne entre le 1er Janvier 2012 et meurt le 3 Janvier 2013 : son temps de participation est de 12mois et 3 jours.2019pacesA - Vrai777pacesB - Faux
+Une personne entre le 01 Aout 2010 et meurt le 31 décembre 2012 : son temps de participation est de 1 an et 5 mois2019pacesA - Vrai777pacesB - Faux
+Une personne entre le 1er Février 2011 et meurt le 1 Mars 2011 : son temps de participation est de 1 mois2019pacesA - Vrai777pacesB - Faux
+Une personne entre le 1er Janvier 2010 et déménage le 1er Aout 2010 : son temps de participation est infini2019pacesA - Vrai777pacesB - Faux
+Une personne entre le 1Novembre 2012 et meurt le 31 décembre 2012 : son temps de participation est de 1 mois.2019pacesA - Vrai777pacesB - Faux
+On étudie les durées de survies de 20 patients en mois, tous décédés. Les durées de survies sont calculées à partir de la date de diagnostic jusqu’à la date de décès. On obtient ces résultats :<BR>2 4 4 5 6 6 7 8 9 9 9 10 11 12 15 15 16 17 17 22
+Le risque de décès à 5 mois est de 4/202019pacesA - Vrai777pacesB - Faux
+Le risque de décès à 6 mois est de 6/202019pacesA - Vrai777pacesB - Faux
+La survie à 11 mois est de 13/202019pacesA - Vrai777pacesB - Faux
+La survie à 11 mois est de 7/202019pacesA - Vrai777pacesB - Faux
+La survie à 4 mois est de 18/202019pacesA - Vrai777pacesB - Faux
+Le risque de décès à 9 mois est de 9/202019pacesA - Vrai777pacesB - Faux
+Le risque de décès à 15 mois est de 16/202019pacesA - Vrai777pacesB - Faux
+La survie à 15 mois est 5/202019pacesA - Vrai777pacesB - Faux
+La survie à 17 mois est de 2/202019pacesA - Vrai777pacesB - Faux
+Le risque de décès à 12 mois est de 14/202019pacesA - Vrai777pacesB - Faux
+Une équipe médicale fait une étude sur une maladie grave du foie. Ils déterminent que la médiane du temps de survie est de 4 mois environ.<br>Ils supposent que les durées de survies suivent une loi exponentielle.2019pacesA – La constante λ vaut 0.35 à 0.01 près777pacesB – La constante λ vaut 0.17 à 0.01 près777pacesC – La probabilité pour qu’un sujet survive 3 mois est de 0.60777pacesD – La probabilité pour qu’un sujet survive moins de 3 mois est de 0.40777pacesE – La probabilité pour qu’un sujet survive plus de 3 mois est de 0.40777pacesF – Autre réponse
+Une équipe médicale fait une étude sur une maladie grave du cerveau. Ils supposent que les durées de survies suivent une loi exponentielle sous la forme : S(t)=exp⁡(-0.32t)2019pacesA – La médiane du temps de survie vaut 1.89 mois777pacesB – La probabilité pour qu’un sujet survive 2 mois est de 0.53777pacesC – La probabilité pour qu’un sujet survive 3 mois sachant qu’il a survécu 1 mois est 0.53777pacesD – La probabilité pour qu’un sujet survive de 8 mois sachant qu’il a survécu 2 mois est de 0.85777pacesE – La probabilité pour qu’un sujet survive 6 mois sachant qu’il a survécu 4 mois est de 0.53777pacesF – Autre réponse
